@@ -1,3 +1,25 @@
+# CareerPath AI — Real-Time Voice Career Counsellor
+
+[![Build](https://github.com/AgoraIO-Conversational-AI/agent-quickstart-nextjs/actions/workflows/build-check.yml/badge.svg)](https://github.com/AgoraIO-Conversational-AI/agent-quickstart-nextjs/actions/workflows/build-check.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Node](https://img.shields.io/badge/node-%3E%3D22-brightgreen)](https://nodejs.org/)
+
+**CareerPath AI** is an ultra-low latency voice agent built using Next.js and Agora's Conversational AI Engine. It is designed to provide real-time career guidance, interview prep, and learning path navigation for students and professionals.
+
+### Tech Stack
+* **Framework:** Next.js (App Router), React, TypeScript
+* **AI & Voice:** Agora Conversational AI SDK, OpenAI (LLM), Deepgram (STT), MiniMax (TTS)
+* **Styling:** Tailwind CSS
+
+---
+
+## Quick Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/career-counsellor-voice-ai.git](https://github.com/YOUR_USERNAME/career-counsellor-voice-ai.git)
+   cd career-counsellor-voice-ai
+
 # Agora Conversational AI Next.js Quickstart
 
 [![Build](https://github.com/AgoraIO-Conversational-AI/agent-quickstart-nextjs/actions/workflows/build-check.yml/badge.svg)](https://github.com/AgoraIO-Conversational-AI/agent-quickstart-nextjs/actions/workflows/build-check.yml)
