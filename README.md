@@ -20,14 +20,6 @@
    git clone [https://github.com/YOUR_USERNAME/career-counsellor-voice-ai.git](https://github.com/YOUR_USERNAME/career-counsellor-voice-ai.git)
    cd career-counsellor-voice-ai
 
-# Agora Conversational AI Next.js Quickstart
-
-[![Build](https://github.com/AgoraIO-Conversational-AI/agent-quickstart-nextjs/actions/workflows/build-check.yml/badge.svg)](https://github.com/AgoraIO-Conversational-AI/agent-quickstart-nextjs/actions/workflows/build-check.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Node](https://img.shields.io/badge/node-%3E%3D22-brightgreen)](https://nodejs.org/)
-
-Build a production-style voice agent in minutes with Next.js and the Agora Conversational AI Engine, including voice agent visualizer ([Agent UIKit](https://agoraio-conversational-ai.github.io/agent-uikit/)), live transcript, and real-time pipeline latency via `AGENT_METRICS` ([Agent Toolkit](https://github.com/AgoraIO-Conversational-AI/agent-client-toolkit-ts)).
-
 ## Prerequisites
 
 - [Node.js 22+](https://nodejs.org/en/download/)
